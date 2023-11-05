@@ -38,6 +38,21 @@
 
 **2023\. 11. 25, 07:30 ~ 21:00**
 
+| 시간 | 활동 | 설명 |
+| --- | --- | --- |
+| ~ 07:30 | 👋🏻 입장 | 🙇 입장 시 운영단의 안내를 잘 따라주시기 바랍니다.<br/>운영단의 안내에 따르지 않을 경우 퇴실 조치가 될 수 있음을 한번 더 강조 드립니다.<br/>🏫 조만식 기념관 330호 |
+| 07:30 ~ 08:10 | 🎉 개회식 | 💡 해커톤 OT (운영진 소개, 팀 소개) 협찬사 소개 |
+| 08:10 ~ 09:00 | 👯‍♂️ 레크레이션 | 🎁 레크레이션 진행 |
+| 09:00 ~ 12:00 | 💻 1차 스프린트 | 📢 개별 사진 촬영<br/>1. 팀 별 사진<br/>2. 운영진 사진<br/>3. 학교별 사진<br/>📌 효율적인 어흥올림픽 운영을 위해 개발 시간 중간 중간 각 팀 호출 예정 _(본인 팀 및 학교 호출 시 잠시 나오셔서 촬영해주시면 됩니다!)_ |
+| 12:00 ~ 13:30 | 🍽️ 점심 | 🍽️ 점심 식사 _(외부 식사, 숭실대학교 인근 식당 정보 제공)_ |
+| 13:30 ~ 17:30 | 💻 2차 스프린트 | 📸 사진 촬영<br/>🚨 17:30까지 발표 자료 업로드 완료! |
+| 17:30 ~ 18:00 | 👤 레트게임즈 세미나 | 🕴🏻 레트게임즈 | 블록체인 기반 게임 개발 📌 주제 | web3.0 그리고 P2E |
+| 18:00 ~ 19:00 | 📢 1차 평가 | ✅ 자율 관람 형식<br/>⏰ 부스 상주 시간 | 자율 평가 시간 2타임으로 나눠 로테이션 진행 📋 구글폼을 통한 전체 팀 상호평가 🏫 조만식 기념관 328호 |
+| 19:00 ~ 19:20 | 📄 2차 발표준비, 심사 위원 소개 | 📋 발표는 팀 번호 역순으로 진행하며 각 팀당 최대 10분 발표 _(최대 7분 발표 + 3분 QnA)_ |
+| 19:20 ~ 20:20 | 📢 2차 발표 | ✅ PPT + 시연 🗳️심사위원(3명)<br/>50분 발표 + 10분 심사<br/>**⚠️ 원활한 진행을 위해 타이머 설정 및 10분 초과 시 발표 중단 될 수 있음을 양해부탁드립니다.** |
+| 20:20 ~ 21:00 | 🏆 시상 및 행사 종료 | 📸 단체 사진 촬영 |
+|  | 🍾 뒤풀이 장소 | 추후 공개 |
+
 ## 🎓 참여 대학
 
 > `국민대학교` `덕성여자대학교` `동국대학교` `명지대학교(인문)` `상명대학교(서울)` `성결대학교` `성신여자대학교` `숭실대학교` `한양대학교(ERICA)`
@@ -52,7 +67,7 @@
     <img src="https://i.namu.wiki/i/D8iIquT6MGtPJG6SkNW0fRUVhb59MtDJwBft4lAIEXHGzifKZdi0VuypP2ow-2svZmlQVU9ST3VmAEWCyV17VQ.svg" width="90">
 </a>
 <a href="https://www.mju.ac.kr/sites/mjukr/intro/intro.html">
-    <img src="https://i.namu.wiki/i/lvOd6MKCB0deHMi1aZH901Rsn_BA7c_Z8Ls368U9gmqTq-hpHIFchM_oTqPyNyHoUrpgeK4y2J2RnS8KRFOYGA.svg" width="90">
+    <img src="https://www.mju.ac.kr/sites/mjukr/images/sub01/embl02.png" width="90">
 </a>
 <a href="https://www.smu.ac.kr/kor/index.do">
     <img src="https://i.namu.wiki/i/FxR0NyiTEdUj93kWccUBd-787QBLVEgi9a2eGbilpYPjbDBqvGu1_Xdewl8jSqMHzfKBRF7qjNgCq0UnE2SjzVzIOK9LlEmIGLJXZFxHEslDk3DbNBF8JHtgE8zB9WPV9b3WKRHhZVgTLm0FzWs39g.svg" width="90">
@@ -82,5 +97,5 @@
     <img src="https://cdn.aitimes.com/news/photo/202308/152780_162971_5737.png" width="90">
 </a>
 <a href="https://www.lingerwatershop.com/">
-    <img src="data:image/png;base64,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" width="90">
+    <img src="https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/361283990_590594246581809_2744773701462242215_n.png?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BJpkWsRakkoAX_hMrJb&_nc_ht=scontent-ssn1-1.xx&oh=00_AfCR9Cq358uZGFtatGNPxNL2iujnX-7m7lHUIA-jSGmNqQ&oe=654C43E9" width="90">
 </a>
